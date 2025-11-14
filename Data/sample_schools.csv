@@ -1,0 +1,101 @@
+udise_code,school_name,state,district,block,location_type,management_type,category,total_students,total_teachers,total_classrooms,boys_toilets,girls_toilets,drinking_water_flag,electricity_flag,internet_flag,library_flag,desktops,laptops,playground_flag,furniture_flag,ramps_flag,solar_panel_flag,rainwater_flag,classes_from,classes_to
+UDISE000001,School 1,Karnataka,North,Block A,Rural,Aided,Primary,78,32,39,9,7,True,True,True,False,1,13,True,False,False,False,False,6,8
+UDISE000002,School 2,Tamil Nadu,North,Block C,Urban,Government,Secondary,1238,12,23,7,9,True,True,False,True,14,1,True,True,True,False,True,9,5
+UDISE000003,School 3,Delhi,East,Block B,Urban,Aided,Secondary,1495,96,16,2,4,True,True,True,True,4,13,True,True,False,True,True,6,5
+UDISE000004,School 4,Karnataka,North,Block C,Urban,Aided,Secondary,388,40,4,6,6,True,True,True,False,3,14,False,True,True,False,False,9,12
+UDISE000005,School 5,Karnataka,North,Block C,Urban,Private,Secondary,1721,94,13,2,9,True,True,False,False,19,14,True,True,True,False,True,1,5
+UDISE000006,School 6,Tamil Nadu,East,Block B,Rural,Aided,Secondary,1569,12,41,6,1,False,True,True,True,3,5,False,False,True,True,False,6,12
+UDISE000007,School 7,Delhi,East,Block A,Urban,Private,Higher Secondary,1438,62,40,1,7,True,True,False,True,17,10,True,False,True,False,True,6,8
+UDISE000008,School 8,Delhi,Central,Block A,Urban,Government,Primary,1906,64,36,9,1,True,True,True,True,3,12,True,True,True,True,False,1,8
+UDISE000009,School 9,Karnataka,West,Block B,Urban,Private,Higher Secondary,1415,54,40,5,3,True,True,True,False,16,8,True,False,True,False,False,1,12
+UDISE000010,School 10,Maharashtra,West,Block A,Urban,Government,Secondary,549,32,36,2,0,False,True,False,True,11,0,True,False,False,True,False,1,5
+UDISE000011,School 11,Karnataka,North,Block B,Urban,Private,Primary,1730,96,20,2,4,True,True,False,False,16,11,True,False,False,False,False,6,8
+UDISE000012,School 12,Karnataka,West,Block B,Rural,Aided,Secondary,560,45,32,8,8,True,True,False,True,9,5,True,True,True,False,False,9,5
+UDISE000013,School 13,Karnataka,North,Block C,Rural,Aided,Primary,1400,68,17,6,0,True,True,True,True,0,8,True,True,False,False,False,6,8
+UDISE000014,School 14,Karnataka,Central,Block B,Urban,Government,Higher Secondary,266,31,29,4,8,True,True,True,True,17,7,True,True,False,False,False,9,12
+UDISE000015,School 15,Tamil Nadu,East,Block C,Urban,Government,Primary,1374,67,36,9,7,True,True,True,True,17,10,False,False,True,False,False,6,12
+UDISE000016,School 16,Delhi,East,Block A,Urban,Government,Primary,1205,21,40,6,5,False,True,True,True,13,5,False,True,True,False,True,6,12
+UDISE000017,School 17,Tamil Nadu,East,Block A,Rural,Private,Primary,1877,77,35,8,6,False,True,False,True,14,2,True,True,True,True,False,1,8
+UDISE000018,School 18,Tamil Nadu,West,Block A,Urban,Private,Primary,1143,37,26,0,2,True,True,True,True,11,7,True,True,True,False,False,9,5
+UDISE000019,School 19,Tamil Nadu,Central,Block A,Urban,Government,Primary,1325,88,17,6,0,True,True,False,False,3,8,True,False,False,True,True,6,5
+UDISE000020,School 20,Karnataka,West,Block C,Rural,Aided,Secondary,1488,81,32,5,4,False,True,True,True,2,0,True,True,True,False,False,6,5
+UDISE000021,School 21,Maharashtra,West,Block A,Urban,Private,Primary,1860,96,44,9,1,True,True,True,True,19,11,True,False,False,False,False,1,8
+UDISE000022,School 22,Delhi,Central,Block B,Rural,Private,Primary,494,33,19,8,4,True,True,True,False,11,8,True,False,False,False,False,1,8
+UDISE000023,School 23,Maharashtra,Central,Block B,Urban,Private,Higher Secondary,925,17,7,0,7,True,True,False,False,6,13,True,True,True,False,False,9,8
+UDISE000024,School 24,Tamil Nadu,Central,Block B,Urban,Government,Primary,1255,50,31,3,8,True,True,False,False,10,14,False,False,False,False,False,6,8
+UDISE000025,School 25,Tamil Nadu,Central,Block C,Rural,Government,Higher Secondary,216,39,6,8,1,True,True,False,False,0,5,True,True,True,False,True,9,8
+UDISE000026,School 26,Maharashtra,East,Block A,Rural,Government,Secondary,140,10,12,3,2,True,True,False,True,5,5,True,False,False,True,False,6,5
+UDISE000027,School 27,Maharashtra,South,Block A,Rural,Government,Primary,763,86,19,9,2,False,True,False,True,14,11,True,True,True,False,False,9,8
+UDISE000028,School 28,Maharashtra,South,Block A,Urban,Government,Higher Secondary,1931,73,12,2,0,False,True,False,False,14,3,True,False,False,True,True,1,8
+UDISE000029,School 29,Tamil Nadu,Central,Block C,Urban,Aided,Higher Secondary,1604,51,19,8,7,True,True,True,True,18,0,True,False,False,False,False,6,5
+UDISE000030,School 30,Tamil Nadu,South,Block B,Urban,Aided,Secondary,88,29,22,1,5,True,True,True,True,10,9,False,False,True,False,False,9,8
+UDISE000031,School 31,Delhi,South,Block B,Rural,Government,Primary,1199,70,26,3,7,False,True,True,False,1,7,True,False,False,False,True,1,5
+UDISE000032,School 32,Delhi,Central,Block A,Urban,Private,Primary,1524,14,7,5,8,False,True,False,True,13,1,False,True,False,True,False,1,5
+UDISE000033,School 33,Tamil Nadu,South,Block B,Rural,Government,Higher Secondary,222,60,36,1,4,True,True,False,True,1,11,True,False,False,False,False,9,12
+UDISE000034,School 34,Maharashtra,West,Block B,Urban,Aided,Primary,702,34,8,7,2,False,True,True,True,3,0,True,False,False,True,True,6,12
+UDISE000035,School 35,Maharashtra,North,Block C,Urban,Aided,Higher Secondary,803,9,4,7,4,False,True,False,True,16,1,True,True,False,False,False,6,12
+UDISE000036,School 36,Delhi,North,Block C,Rural,Private,Primary,1293,37,15,0,4,True,True,False,True,2,0,True,True,True,True,False,1,12
+UDISE000037,School 37,Tamil Nadu,Central,Block C,Rural,Aided,Higher Secondary,1711,69,45,2,4,True,True,True,True,12,0,False,False,True,False,False,6,8
+UDISE000038,School 38,Delhi,East,Block C,Rural,Government,Primary,1131,22,45,9,2,True,False,True,False,8,8,False,False,False,False,False,6,12
+UDISE000039,School 39,Delhi,Central,Block A,Urban,Private,Secondary,1733,53,13,8,9,True,True,False,True,6,12,True,False,True,False,False,6,5
+UDISE000040,School 40,Karnataka,East,Block C,Urban,Government,Primary,525,15,49,4,3,True,True,True,True,14,13,True,True,False,False,True,1,8
+UDISE000041,School 41,Karnataka,North,Block B,Urban,Government,Primary,505,89,25,5,8,False,True,False,False,10,0,True,False,False,False,False,9,12
+UDISE000042,School 42,Karnataka,Central,Block A,Rural,Private,Secondary,878,30,18,3,9,True,True,True,False,19,12,False,True,True,False,False,6,5
+UDISE000043,School 43,Maharashtra,West,Block B,Urban,Government,Primary,944,67,33,9,8,True,True,False,False,1,3,True,False,True,False,False,1,8
+UDISE000044,School 44,Tamil Nadu,South,Block B,Urban,Aided,Secondary,1434,93,13,1,1,True,True,False,False,14,9,True,True,False,False,True,1,8
+UDISE000045,School 45,Tamil Nadu,East,Block B,Urban,Government,Primary,1074,90,18,7,7,True,True,False,True,13,5,True,False,True,False,False,9,12
+UDISE000046,School 46,Tamil Nadu,South,Block C,Urban,Private,Higher Secondary,436,63,10,5,7,False,True,True,True,19,6,True,False,False,False,True,6,8
+UDISE000047,School 47,Tamil Nadu,South,Block C,Urban,Private,Higher Secondary,397,31,6,4,6,True,True,False,True,10,1,True,True,True,False,False,6,5
+UDISE000048,School 48,Karnataka,Central,Block A,Urban,Private,Primary,239,53,42,8,7,True,True,False,True,2,5,True,False,False,True,False,9,8
+UDISE000049,School 49,Maharashtra,South,Block A,Urban,Government,Primary,554,81,6,0,2,True,True,True,True,16,6,False,True,True,False,False,9,5
+UDISE000050,School 50,Maharashtra,West,Block C,Rural,Private,Primary,1264,37,27,4,5,True,True,False,True,11,9,True,False,False,True,False,1,8
+UDISE000051,School 51,Karnataka,South,Block B,Rural,Private,Higher Secondary,1581,5,5,5,0,True,True,True,False,14,13,True,False,True,False,False,1,12
+UDISE000052,School 52,Maharashtra,Central,Block A,Urban,Government,Primary,1442,25,34,4,6,True,True,True,True,15,9,False,True,False,False,False,9,5
+UDISE000053,School 53,Karnataka,West,Block C,Urban,Aided,Higher Secondary,1482,59,5,5,0,True,False,True,True,4,1,True,False,True,False,False,6,8
+UDISE000054,School 54,Tamil Nadu,North,Block C,Rural,Government,Secondary,873,10,29,5,8,True,True,True,True,19,14,False,False,False,False,False,1,8
+UDISE000055,School 55,Karnataka,South,Block C,Urban,Private,Higher Secondary,978,96,31,6,0,True,True,True,True,5,1,True,True,False,False,False,1,8
+UDISE000056,School 56,Tamil Nadu,Central,Block B,Urban,Private,Higher Secondary,983,85,34,3,0,True,True,False,True,18,9,True,True,True,False,False,6,5
+UDISE000057,School 57,Tamil Nadu,North,Block C,Urban,Government,Secondary,1190,73,21,7,6,False,True,True,False,4,6,False,False,True,False,False,1,5
+UDISE000058,School 58,Delhi,North,Block C,Urban,Aided,Higher Secondary,183,99,23,6,1,True,False,False,True,2,11,True,False,True,True,False,6,5
+UDISE000059,School 59,Karnataka,East,Block C,Rural,Private,Primary,107,9,7,8,4,True,True,True,True,0,0,True,False,False,False,False,6,12
+UDISE000060,School 60,Delhi,West,Block C,Urban,Private,Primary,1629,7,20,6,7,True,True,True,True,5,7,True,False,False,True,False,6,12
+UDISE000061,School 61,Karnataka,South,Block A,Rural,Private,Higher Secondary,734,57,30,2,7,True,True,True,False,14,10,True,True,False,False,False,9,5
+UDISE000062,School 62,Karnataka,Central,Block A,Urban,Government,Primary,721,27,44,2,2,True,True,False,True,1,12,True,False,True,False,True,9,8
+UDISE000063,School 63,Delhi,East,Block C,Urban,Private,Higher Secondary,222,57,24,7,6,True,True,True,True,2,2,True,True,True,False,False,9,12
+UDISE000064,School 64,Delhi,West,Block B,Urban,Aided,Primary,1902,41,23,4,2,False,True,False,True,16,10,False,True,False,False,False,6,5
+UDISE000065,School 65,Karnataka,East,Block A,Urban,Private,Primary,864,78,8,3,5,True,True,False,True,11,5,True,True,True,False,False,6,8
+UDISE000066,School 66,Maharashtra,West,Block C,Rural,Private,Higher Secondary,1222,78,3,7,5,True,True,False,False,17,8,True,True,False,True,False,9,12
+UDISE000067,School 67,Tamil Nadu,West,Block A,Urban,Aided,Primary,129,87,7,5,2,True,True,True,False,14,5,True,True,True,False,False,1,8
+UDISE000068,School 68,Delhi,South,Block A,Urban,Private,Higher Secondary,935,21,43,1,6,False,False,True,True,11,8,True,True,False,False,False,6,8
+UDISE000069,School 69,Tamil Nadu,West,Block B,Rural,Government,Primary,1286,89,14,3,2,True,True,False,False,15,6,True,False,True,False,False,1,8
+UDISE000070,School 70,Maharashtra,East,Block C,Urban,Government,Primary,252,82,28,3,7,True,True,True,False,7,14,False,True,True,False,True,1,8
+UDISE000071,School 71,Maharashtra,West,Block C,Urban,Government,Secondary,813,77,48,5,9,True,True,False,False,13,8,True,True,False,False,False,6,12
+UDISE000072,School 72,Maharashtra,South,Block B,Urban,Aided,Secondary,1302,5,36,5,3,True,True,True,False,16,1,True,True,False,True,True,6,12
+UDISE000073,School 73,Delhi,South,Block B,Urban,Private,Higher Secondary,1749,55,16,0,0,True,True,False,True,7,11,True,True,False,False,False,1,12
+UDISE000074,School 74,Maharashtra,East,Block C,Rural,Government,Secondary,1300,49,28,7,3,False,False,False,True,14,7,True,True,True,False,False,1,5
+UDISE000075,School 75,Delhi,North,Block C,Urban,Aided,Higher Secondary,1732,81,47,5,6,True,True,False,True,13,7,True,True,True,True,False,9,12
+UDISE000076,School 76,Maharashtra,North,Block B,Urban,Private,Secondary,1605,8,29,2,3,True,True,True,False,17,1,True,False,False,False,True,9,8
+UDISE000077,School 77,Tamil Nadu,West,Block A,Urban,Aided,Primary,1514,66,11,8,5,True,True,False,True,19,11,False,False,False,True,True,6,12
+UDISE000078,School 78,Tamil Nadu,Central,Block A,Rural,Government,Higher Secondary,1475,69,28,1,8,True,True,True,False,6,13,True,False,True,True,False,9,8
+UDISE000079,School 79,Karnataka,West,Block B,Urban,Government,Higher Secondary,96,36,49,7,0,True,True,True,False,2,3,True,True,True,True,True,9,5
+UDISE000080,School 80,Tamil Nadu,East,Block A,Urban,Government,Primary,1306,38,24,9,4,True,True,False,True,11,13,True,True,True,False,True,9,8
+UDISE000081,School 81,Karnataka,East,Block B,Rural,Aided,Higher Secondary,1378,96,49,2,6,True,True,False,False,2,14,True,False,False,False,True,9,8
+UDISE000082,School 82,Tamil Nadu,East,Block A,Rural,Aided,Higher Secondary,1599,99,32,4,0,True,True,False,True,19,10,True,True,True,False,False,1,8
+UDISE000083,School 83,Delhi,East,Block A,Rural,Government,Secondary,1216,76,45,5,3,True,True,False,True,13,14,True,True,True,False,False,6,5
+UDISE000084,School 84,Tamil Nadu,East,Block C,Urban,Aided,Higher Secondary,1488,43,19,9,5,True,True,True,False,14,6,True,True,True,False,False,9,12
+UDISE000085,School 85,Karnataka,South,Block C,Urban,Government,Primary,1586,30,28,5,1,True,True,True,True,13,10,True,True,True,False,False,1,12
+UDISE000086,School 86,Karnataka,North,Block A,Urban,Government,Secondary,1446,38,38,3,9,True,True,False,False,6,3,True,True,True,False,False,1,5
+UDISE000087,School 87,Maharashtra,East,Block A,Urban,Private,Secondary,1639,58,3,2,4,True,True,True,False,16,3,True,True,False,True,False,1,8
+UDISE000088,School 88,Delhi,Central,Block C,Urban,Aided,Primary,1959,7,10,3,9,True,True,True,True,11,5,False,True,True,False,False,9,12
+UDISE000089,School 89,Tamil Nadu,Central,Block C,Rural,Government,Primary,1332,54,37,0,0,False,True,True,True,19,9,False,True,False,True,True,9,5
+UDISE000090,School 90,Maharashtra,Central,Block C,Urban,Government,Secondary,705,16,17,3,5,False,True,True,True,3,5,True,False,True,False,True,6,12
+UDISE000091,School 91,Tamil Nadu,Central,Block B,Rural,Aided,Higher Secondary,520,69,49,0,5,True,True,True,True,8,9,False,False,False,False,True,9,5
+UDISE000092,School 92,Tamil Nadu,South,Block A,Urban,Private,Secondary,1020,58,24,0,3,True,False,True,False,5,14,True,False,False,True,False,9,8
+UDISE000093,School 93,Maharashtra,Central,Block C,Rural,Private,Primary,1085,9,16,9,7,True,True,True,True,15,2,True,False,False,True,False,1,12
+UDISE000094,School 94,Maharashtra,East,Block A,Urban,Government,Secondary,1403,98,28,5,3,True,True,True,True,1,14,True,False,False,False,False,6,5
+UDISE000095,School 95,Maharashtra,West,Block B,Urban,Aided,Primary,785,98,30,4,7,True,True,False,True,7,8,True,True,True,False,True,9,12
+UDISE000096,School 96,Maharashtra,Central,Block B,Rural,Private,Secondary,833,61,25,3,7,True,True,True,True,10,11,True,True,True,True,True,9,12
+UDISE000097,School 97,Maharashtra,South,Block C,Urban,Aided,Higher Secondary,1017,21,16,2,4,True,True,True,False,12,9,False,True,False,False,False,1,12
+UDISE000098,School 98,Tamil Nadu,South,Block B,Urban,Aided,Secondary,407,51,26,0,3,True,True,False,True,16,13,True,False,False,True,False,1,12
+UDISE000099,School 99,Maharashtra,Central,Block A,Rural,Government,Secondary,1021,27,4,5,1,True,True,True,False,7,10,True,False,False,False,False,9,5
+UDISE000100,School 100,Delhi,West,Block C,Rural,Private,Primary,1481,83,47,1,2,True,True,False,True,17,1,True,True,False,False,False,6,8

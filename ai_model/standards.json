@@ -1,0 +1,93 @@
+{
+  "compliance_standards": {
+    "ptr_thresholds": {
+      "primary": 30,
+      "upper_primary": 35,
+      "secondary": 35,
+      "higher_secondary": 40
+    },
+    "toilet_ratios": {
+      "boys": 40,
+      "girls": 40,
+      "teachers": 20
+    },
+    "computer_ratios": {
+      "primary": 40,
+      "upper_primary": 30,
+      "secondary": 20,
+      "higher_secondary": 15
+    },
+    "classroom_standards": {
+      "min_area_sqm": 56,
+      "min_height_m": 3.6,
+      "ventilation_required": true
+    },
+    "drinking_water": {
+      "required": true,
+      "min_liters_per_student": 3,
+      "storage_capacity_liters": 1000
+    },
+    "electricity": {
+      "required": true,
+      "min_lighting_lux": 300,
+      "backup_power_minutes": 30
+    },
+    "internet": {
+      "primary_required": false,
+      "upper_primary_required": true,
+      "secondary_required": true,
+      "higher_secondary_required": true,
+      "min_bandwidth_mbps": 10
+    },
+    "library": {
+      "required": true,
+      "min_books_per_student": 10,
+      "min_area_sqm": 28
+    },
+    "playground": {
+      "required": true,
+      "min_area_sqm": 200,
+      "sports_equipment_required": true
+    },
+    "ramps": {
+      "required": true,
+      "max_slope_ratio": "1:12",
+      "min_width_m": 1.2
+    },
+    "solar_panels": {
+      "recommended": true,
+      "min_capacity_kw": 1,
+      "battery_backup_hours": 4
+    },
+    "rainwater_harvesting": {
+      "recommended": true,
+      "min_capacity_liters": 5000
+    }
+  },
+  "priority_weights": {
+    "safety_critical": 1.0,
+    "health_hygiene": 0.9,
+    "learning_environment": 0.8,
+    "technology_access": 0.7,
+    "sustainability": 0.6,
+    "comfort": 0.5
+  },
+  "deficiency_categories": {
+    "critical": ["drinking_water", "electricity", "toilets", "ramps"],
+    "high": ["classrooms", "teachers", "library", "playground"],
+    "medium": ["computers", "internet", "furniture"],
+    "low": ["solar_panels", "rainwater_harvesting", "sports_equipment"]
+  },
+  "intervention_costs": {
+    "teacher_salary_monthly": 50000,
+    "toilet_construction": 150000,
+    "computer_cost": 35000,
+    "classroom_construction": 500000,
+    "internet_setup": 25000,
+    "library_setup": 100000,
+    "playground_setup": 200000,
+    "ramp_construction": 75000,
+    "solar_panel_kw": 80000,
+    "rainwater_system": 50000
+  }
+}
