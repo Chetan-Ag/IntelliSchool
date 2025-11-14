@@ -59,8 +59,7 @@ intellischool/
 ├── frontend/                           # Next.js + Tailwind UI
 ├── backend/                            # FastAPI inference + training
 ├── ai_model/                           # ML pipeline and features
-├── models/                             # Saved models and pipelines
-├── reports/                            # Generated reports and metrics
+├── models/                             # Saved models and pipelines                          # 
 └── requirements.txt                    # Python dependencies
 ```
 
